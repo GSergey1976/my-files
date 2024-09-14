@@ -1,11 +1,10 @@
 a='name'
 name='Name: Sergey'
 print(name)
-b='age'
-age= 'Age: 48'
-print(age)
+age= '48'
+print('Age:',age)
 age= 'New Age: 49'
-print(age)
+print('New Age:' ,age)
 c='is_student'
-is_student='Is_Student: True'
-print(is_student)
+is_student='True'
+print('Is_Student:', is_student)
